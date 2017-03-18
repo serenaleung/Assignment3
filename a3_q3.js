@@ -1,14 +1,14 @@
-// Digit Product Sequence
+// Question 3: Digit Product Sequence
 // A digit product sequence is a type of sequence where the next number in the sequence is calculated by adding the product of each digit of the number and the number.
-//
+
 // For example:
-//
+
 // 1, 2, 4, 8, 16, 22, 26, 38, 62
 //          (1x6)+16 (2x2)+22    2x6+26
 // The above are the first 9 numbers of the sequence.
-//
+
 // Write a function, digitProduct, that takes a number, n, as an argument and calculates the nth number in the sequence.
-//
+
 // digitProduct(3) // returns 4
 // digitProduct(6) // returns 22
 // digitProduct(9) // returns 62
